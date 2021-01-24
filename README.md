@@ -1,7 +1,7 @@
-# 103cipher_2019
+# 103cipher_2020
 
 ## Description
-Maths 103cipher Epitech Teck1
+Maths 103cipher Epitech Tek1
 
 Cryptography is a very old science, whose goal is to secure communication, so that only its recipient could
 read it.
